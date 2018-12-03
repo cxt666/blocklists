@@ -1,4 +1,6 @@
-# smarttv
+# Blocklists
 
-## PiHole Blacklist for Samsung SmartTV
-https://raw.githubusercontent.com/cxt666/blocklists/master/smarttv.txt
+### Samsung SmartTV
+
+Blocklist for PiHole to Block Tracking and information leaking on Samsung SmartTV
+Link: https://raw.githubusercontent.com/cxt666/blocklists/master/smarttv.txt
