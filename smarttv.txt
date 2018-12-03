@@ -6,4 +6,4 @@ log.internetat.tv
 oempprd.samsungcloudsolution.com
 www.samsungotn.net
 www.samsungrm.net
-ns11.whois.co.kr
+whois.co.kr
