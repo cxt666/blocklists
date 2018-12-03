@@ -7,3 +7,4 @@ oempprd.samsungcloudsolution.com
 www.samsungotn.net
 www.samsungrm.net
 whois.co.kr
+*.whois.co.kr
