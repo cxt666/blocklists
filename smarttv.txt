@@ -1,4 +1,3 @@
-cdn.samsungcloudsolution.com
 log.internetat.tv
 whois.co.kr
 *.whois.co.kr
