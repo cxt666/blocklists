@@ -1,10 +1,4 @@
 cdn.samsungcloudsolution.com
-configprd.samsungcloudsolution.net
-fkp.samsungcloudsolution.com
-infolink.pavv.co.kr
 log.internetat.tv
-oempprd.samsungcloudsolution.com
-www.samsungotn.net
-www.samsungrm.net
 whois.co.kr
 *.whois.co.kr
