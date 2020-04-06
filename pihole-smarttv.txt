@@ -1,3 +1,7 @@
+## Blocklist intended to Block SmartTV & HBBTV
+## Intended to still keep Streaming Apps working
+## Developed and tested with a Samsung UE32ES6750
+
 log.internetat.tv
 infolink.pavv.co.kr
 whois.co.kr
